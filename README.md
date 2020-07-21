@@ -12,7 +12,7 @@ Show some love 💜 and Star ⭐️ the Repository to support the project.
 - Just run `python app.py` in command prompt for Windows or terminal in Linux or MacOS.
 - Then in browser just type **localhost:5000** on url and the app will run and you are ready to predict prices.
 
-| <img width="1604" src="/static/images/Screenshot (5).png"> | <img width="1604" src="/static/images/Screenshot (6).png">
+| <img width="1500" src="/static/images/Screenshot (5).png"> | <img width="1500" src="/static/images/Screenshot (6).png">
 
 ## :label: Versioning
 
